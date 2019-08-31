@@ -1,7 +1,7 @@
 # Arkademy Bootcamp Batch 12
 Jawaban soal-soal test online nomor 1-6
 
-##NO 1
+#NO 1
     {
     "name":"Muhammad Rofiul haq",
     "age":21,
